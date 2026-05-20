@@ -1,5 +1,5 @@
 # Raagam
-Copyright (c) 2026 NotPC
+Copyright (c) 2026 NPC456
 
 All rights reserved.
 
